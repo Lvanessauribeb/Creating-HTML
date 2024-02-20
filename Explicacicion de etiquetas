@@ -1,0 +1,13 @@
+title; El nombre de la pagina
+Titulo: H1, H2 etc
+Subtitulos: <P>
+Para listas se coloca : OL (Orden list) en caso de que sea un lista ordenada (me las pone con numeritos) y para agregar el contenido del listado
+coloco li (list item) y si la lista no lleva un orden se coloca ul (me la coloca con punticos) e igual para agregarle el contenido
+lo hago con li (list item)
+En el caso que quiera que los subtitulos no me ocupen todo el espacio sino que siga corrido el siguiente conteido entonces ultilizo
+<span> 
+    Ahora para darle un orden a todo el contenido se agrupa en : header, main y footer 
+    Header es el encabeza o inicio de mi pagina
+    main hace referencia a el cuerpo y dentro del cuerpo encotramos Secciones (en mi caso nada mas hice una seccion que fue la de noticia)
+    y a su vez esa seccion se agrupa en articulos y los articulos tienen divisiones (en mi caso dos noticias)
+    Si quiero agregar un link dentro de mi pagina entonces escribo la letra a y recuerda que debes tener el archivo guardado dentro de la carpeta. 
